@@ -1,6 +1,6 @@
 {
     "appId": "com.ednovas.donguatv.tv",
-    "appName": "E视界TV",
+    "appName": "冬瓜TV",
     "webDir": "../public",
     "bundledWebRuntime": false,
     "$comment_server": "📺 修改 server.url 即可更改内置网站地址",
